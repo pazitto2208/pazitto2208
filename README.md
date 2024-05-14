@@ -1,5 +1,4 @@
-- 👋 Ciao, sono @pazitto2208 e mi occupo di progettazione e sviluppo web e di soluzioni cloud
-- 👀 Sono interessato a progetti innovativi che mi permettano di mettere in pratica le mie competenze e di apprendere nuove tecnologie
-- 🌱 Attualmente sto approfondendo le mie conoscenze sullo sviluppo fullstack di applicazioni web e sto esplorando il mondo del cloud computing
-- 📫 Puoi raggiungermi facilmente tramite Linkedin: https://linkedin.com/in/eduardopazitto
-
+- 👋 Hi there, I'm @pazitto2208 and I specialize in software development and cloud solutions.
+- 👀 I'm interested in innovative projects that allow me to apply my skills and learn new technologies.
+- 🌱 Currently, I'm deepening my knowledge in fullstack web application development and exploring the realm of cloud computing.
+- 📫 You can easily reach me via Linkedin: https://linkedin.com/in/eduardopazitto
